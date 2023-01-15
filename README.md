@@ -1,2 +1,2 @@
 # PYTHON-TURTLE
-graphic desining using turtle module in python
+Graphic desining using turtle module in python
