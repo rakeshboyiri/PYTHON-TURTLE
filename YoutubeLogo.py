@@ -1,6 +1,7 @@
-/*
+"""
 program to print youtube logo using Turtle module in Python
-*/
+
+"""
 
 import turtle
 i=turtle.Turtle()
